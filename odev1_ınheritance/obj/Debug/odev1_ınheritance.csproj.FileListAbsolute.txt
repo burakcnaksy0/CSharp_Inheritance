@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\bin\Debug\odev1_ınheritance.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\bin\Debug\odev1_ınheritance.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\bin\Debug\odev1_ınheritance.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\obj\Debug\odev1_ınheritance.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\obj\Debug\odev1_ınheritance.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\obj\Debug\odev1_ınheritance.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev\odev1_ınheritance\obj\Debug\odev1_ınheritance.pdb
